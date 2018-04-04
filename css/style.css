@@ -258,7 +258,7 @@ h5.pro-link {
 
 .panel {
     margin-bottom: 0px;
-    background: #cd3060;
+    background: url(../images/imgB.jpg) no-repeat 0px 0px;
     width: auto;
     height: 780px !important;
     width: 15.625em !important;
