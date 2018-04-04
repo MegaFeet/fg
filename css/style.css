@@ -73,7 +73,7 @@ h1.fit_tittle{
 }
 .phn-status-bar{
     padding: 5px 0;
-    background: #cd3060 !important;
+ background: url(../images/imgB.jpg) no-repeat 0px 0px;
 }
 .float-stn1{
     width: 33.3333333%;
